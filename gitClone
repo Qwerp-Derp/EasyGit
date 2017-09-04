@@ -1,0 +1,4 @@
+#!/bin/bash
+
+read -p "Url: " url
+git clone $url
